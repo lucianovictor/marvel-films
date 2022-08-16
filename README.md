@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com base no projeto do Disney Films [Disney Films]
 ## 🚀 Tecnologias
 
 - HTML
-- CSS
+- SASS
 - JavaScript
 - [API TMDB](https://www.themoviedb.org/documentation/api)
 
